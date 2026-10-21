@@ -1,0 +1,282 @@
+[
+  {
+    "QuestionDesc": "Gniazdo tablicy interaktywnej jest oznaczone za pomocą przedstawionego symbolu. Którego złącza należy użyć do podłączenia tablicy do komputera?",
+    "AnwserA": " A. FireWire",
+    "AnwserB": " B. USB A-A",
+    "AnwserC": " C. HDMI",
+    "AnwserD": " D. D-SUB VGA"
+  },
+  {
+    "QuestionDesc": "Czynność pokazana na rysunkach ilustruje mocowanie",
+    "AnwserA": " A. bębna zintegrowanego z tonerem w drukarce laserowej.",
+    "AnwserB": " B. taśmy barwiącej w drukarce igłowej.",
+    "AnwserC": " C. głowicy w drukarce rozetkowej.",
+    "AnwserD": " D. kartridża w drukarce atramentowej."
+  },
+  {
+    "QuestionDesc": "Do naprawy uszkodzenia sektora rozruchowego dysku w systemie Windows 7 należy wykorzystać polecenie",
+    "AnwserA": " A. bootrec /fixmbr",
+    "AnwserB": " B. fixmbr /all",
+    "AnwserC": " C. nircmd /standby",
+    "AnwserD": " D. fixboot /renew"
+  },
+  {
+    "QuestionDesc": "Wskaż element, który dopasowuje poziom napięcia z sieci energetycznej przy użyciu transformatora przenoszącego energię z jednego obwodu elektrycznego do drugiego z wykorzystaniem zjawiska indukcji magnetycznej.",
+    "AnwserA": " A. Rejestr szeregowy.",
+    "AnwserB": " B. Zasilacz transformatorowy.",
+    "AnwserC": " C. Przerzutnik synchroniczny.",
+    "AnwserD": " D. Rezonator kwarcowy."
+  },
+  {
+    "QuestionDesc": "Do połączenia lokalnej sieci bezprzewodowej z siecią przewodową jest stosowany",
+    "AnwserA": " A. punkt dostępu",
+    "AnwserB": " B. przełącznik",
+    "AnwserC": " C. modem",
+    "AnwserD": " D. koncentrator"
+  },
+  {
+    "QuestionDesc": "Zamieszczony komunikat widoczny po uruchomieniu narzędzia do naprawy systemu Windows może świadczyć o",
+    "AnwserA": " A. konieczności wykonania kopii zapasowej systemu",
+    "AnwserB": " B. uszkodzeniu sterowników",
+    "AnwserC": " C. uszkodzeniu plików startowych systemu",
+    "AnwserD": " D. wykryciu nieprawidłowej adresacji IP"
+  },
+  {
+    "QuestionDesc": "Przedstawione wbudowane narzędzie systemów Windows w wersji Enterprise lub Ultimate służy do",
+    "AnwserA": " A. konsolidacji danych na dyskach",
+    "AnwserB": " B. kryptograficznej ochrony danych na dyskach",
+    "AnwserC": " C. kompresji dysku",
+    "AnwserD": " D. tworzenia kopii dysku"
+  },
+  {
+    "QuestionDesc": "Przedstawiona na diagramie strategia zapisu kopii zapasowych na nośnikach nosi nazwę",
+    "AnwserA": " A. dziadek-ojciec-syn",
+    "AnwserB": " B. round-robin",
+    "AnwserC": " C. wieża Hanoi",
+    "AnwserD": " D. uproszczony GFS"
+  },
+  {
+    "QuestionDesc": "Aby w systemie Windows wyczyścić bufor nazw domenowych, należy zastosować polecenie",
+    "AnwserA": " A. ipconfig /renew",
+    "AnwserB": " B. ipconfig /flushdns",
+    "AnwserC": " C. ipconfig /setclassid",
+    "AnwserD": " D. ipconfig /release"
+  },
+  {
+    "QuestionDesc": "W systemie Linux plik ma ustawione uprawnienia na 541. Właściciel może plik",
+    "AnwserA": " A. tylko wykonać",
+    "AnwserB": " B. modyfikować",
+    "AnwserC": " C. odczytać i wykonać",
+    "AnwserD": " D. odczytać, zapisać i wykonać"
+  },
+  {
+    "QuestionDesc": "Na komputerze z zainstalowanymi dwoma systemami – Windows i Linux, po wykonaniu reinstalacji systemu Windows nie uruchamia się drugi system. Aby przywrócić możliwość uruchamiania się systemu Linux oraz aby nie stracić danych i ustawień w nim zapisanych, należy",
+    "AnwserA": " A. wykonać kolejny raz instalację systemu Windows",
+    "AnwserB": " B. ponownie zainstalować bootloadera GRUB",
+    "AnwserC": " C. wykonać reinstalację systemu Linux",
+    "AnwserD": " D. przeprowadzić skanowanie dysku programem antywirusowym"
+  },
+  {
+    "QuestionDesc": "Transmisja za pomocą fal radiowych korzystających z pasma ISM jest realizowana w interfejsie",
+    "AnwserA": " A. Bluetooth",
+    "AnwserB": " B. HDMI",
+    "AnwserC": " C. IrDA",
+    "AnwserD": " D. FireWire"
+  },
+  {
+    "QuestionDesc": "W systemie Windows, zainstalowanym w wersji obsługującej przydziały dyskowe, użytkownik o nazwie Gość",
+    "AnwserA": " A. może należeć tylko do grupy globalnej",
+    "AnwserB": " B. może należeć do grup lokalnych i do grup globalnych ",
+    "AnwserC": " C. nie może należeć do żadnej grupy",
+    "AnwserD": " D. może należeć tylko do grupy o nazwie Goście"
+  },
+  {
+    "QuestionDesc": "Uruchamianie programu w dowolnym celu, analizowanie działania programu oraz jego modyfikowanie wraz z możliwością publicznego rozpowszechniania tych zmian jest cechą licencji typu",
+    "AnwserA": " A. ADWARE",
+    "AnwserB": " B. FREEWARE",
+    "AnwserC": " C. MOLP",
+    "AnwserD": " D. GNU GPL"
+  },
+  {
+    "QuestionDesc": "Na rysunku przedstawiono narzędzie systemu Windows 7 przeznaczone do",
+    "AnwserA": " A. tworzenia kopii systemu",
+    "AnwserB": " B. rozwiązywania problemów z systemem",
+    "AnwserC": " C. przeprowadzania migracji systemu",
+    "AnwserD": " D. konfiguracji ustawień użytkownika"
+  },
+  {
+    "QuestionDesc": "Użytkownicy korzystający z sieci Wi-Fi zaobserwowali zaburzenia i częstą utratę połączenia z siecią. Powodem takiego stanu rzeczy może być",
+    "AnwserA": " A. zły sposób szyfrowania sieci",
+    "AnwserB": " B. zbyt słaby sygnał",
+    "AnwserC": " C. błędne hasło do sieci",
+    "AnwserD": " D. niedziałający serwer DHCP"
+  },
+  {
+    "QuestionDesc": "Równoważnym zapisem 2^32 bajtów jest zapis:",
+    "AnwserA": " A. 2 GB",
+    "AnwserB": " B. 8 GB",
+    "AnwserC": " C. 1 GiB",
+    "AnwserD": " D. 4 GiB"
+  },
+  {
+    "QuestionDesc": "Wskaż rysunek przedstawiający materiał eksploatacyjny typowy dla drukarek żelowych",
+    "AnwserA": " A. A",
+    "AnwserB": " B. B",
+    "AnwserC": " C. C",
+    "AnwserD": " D. D"
+  },
+  {
+    "QuestionDesc": "Który skrócony zapis odpowiada następującej masce podsieci: 255.255.248.0?",
+    "AnwserA": " A. /22",
+    "AnwserB": " B. /24",
+    "AnwserC": " C. /23",
+    "AnwserD": " D. /21"
+  },
+  {
+    "QuestionDesc": "Programdfdziałający w systemach rodziny Linux umożliwia wyświetlenie",
+    "AnwserA": " A. informacji o wolnej przestrzeni dyskowej",
+    "AnwserB": " B. zawartości ukrytego katalogu",
+    "AnwserC": " C. tekstu pasującego do wzorca",
+    "AnwserD": " D. nazwy bieżącego katalogu"
+  },
+  {
+    "QuestionDesc": "Który rekord bazy DNS (Domain Name System) pozwala na zdefiniowanie aliasu rekordu A?",
+    "AnwserA": " A. PTR",
+    "AnwserB": " B. CNAME",
+    "AnwserC": " C. AAAA",
+    "AnwserD": " D. NS "
+  },
+  {
+    "QuestionDesc": "Narzędzie na zdjęciu służy do",
+    "AnwserA": " A. Ściągania izolacji",
+    "AnwserB": " B. Zaciskania wtyków RJ45",
+    "AnwserC": " C. Montażu modułu Krone w gniazdach",
+    "AnwserD": " D. Wykonania zakończeń kablowych w złączach LSA"
+  },
+  {
+    "QuestionDesc": "Użytkownik zamierza zmodernizować swój komputer zwiększając ilość pamięci RAM. Zainstalowana płyta główna ma parametry przedstawione w tabeli. Wybierając dodatkowe moduły pamięci, powinien pamiętać, aby",
+    "AnwserA": " A. dokupione moduły miały łącznie pojemność większą niż 32 GB.",
+    "AnwserB": " B. były to trzy moduły DDR2, bez systemu kodowania korekcyjnego (ang. Error Correction Code).",
+    "AnwserC": " C. w obrębie jednego banku były ze sobą zgodne tak, aby osiągnąć najwyższą wydajność.",
+    "AnwserD": " D. były to cztery moduły DDR4, o wyższej częstotliwości niż zainstalowana pamięć RAM."
+  },
+  {
+    "QuestionDesc": "Bezprzewodowy dostęp komputera do sieci Internet poprzez tzw hotspot będzie możliwy po zainstalowaniu w nim karty sieciowej wyposażonej w",
+    "AnwserA": " A. gniazdo RJ-45",
+    "AnwserB": " B. moduł WiFi",
+    "AnwserC": " C. interfejs RS-232C",
+    "AnwserD": " D. złącze USB"
+  },
+  {
+    "QuestionDesc": "Połączenie między oddzielnymi sieciami i kontrolę przepływu informacji między nimi realizuje urządzenie warstwy dystrybucji nazywane",
+    "AnwserA": " A. routerem",
+    "AnwserB": " B. przełącznikiem",
+    "AnwserC": " C. koncentratorem",
+    "AnwserD": " D. serwerem"
+  },
+  {
+    "QuestionDesc": "Złącze IrDA do komunikacji bezprzewodowej jest",
+    "AnwserA": " A. złączem pozwalającym transmitować dane na odległość 100m",
+    "AnwserB": " B. złączem szeregowym",
+    "AnwserC": " C. rozwinięciem systemu BlueTooth",
+    "AnwserD": " D. złączem radiowym"
+  },
+  {
+    "QuestionDesc": "Przy wyborze zasilacza komputerowego największe znaczenie",
+    "AnwserA": " A. Ma typ procesora",
+    "AnwserB": " B. Ma łączna moc wszystkich podzespołów komputerowych",
+    "AnwserC": " C. Mają parametry zainstalowanego systemu operacyjnego",
+    "AnwserD": " D. Ma współczynnik kształtu obudowy"
+  },
+  {
+    "QuestionDesc": "Ile symboli przełączników i ruterów jest na schemacie?",
+    "AnwserA": " A. 4 przełączniki i 3 rutery",
+    "AnwserB": " B. 3 przełączniki i 4 rutery",
+    "AnwserC": " C. 8 przełączników i 3 rutery",
+    "AnwserD": " D. 4 przełączniki i 8 ruterów"
+  },
+  {
+    "QuestionDesc": "Po podłączeniu sprawnej klawiatury do dowolnego z portów USB nie można wybrać awaryjnego trybu uruchomienia systemu Windows. Mimo to, klawiatura po uruchomieniu systemu w normalnym trybie, działa prawidłowo. Wskazuje to na:",
+    "AnwserA": " A. uszkodzone porty USB",
+    "AnwserB": " B. uszkodzony kontroler klawiatury",
+    "AnwserC": " C. uszkodzony zasilacz",
+    "AnwserD": " D. niepoprawne ustawienia BIOS-u"
+  },
+  {
+    "QuestionDesc": "Zmniejszenie liczby jedynek w masce umożliwi zaadresowanie",
+    "AnwserA": " A. większej liczby sieci i większej liczby urządzeń",
+    "AnwserB": " B. większej liczby sieci i mniejszej liczby urządzeń",
+    "AnwserC": " C. mniejszej liczby sieci i mniejszej liczby urządzeń",
+    "AnwserD": " D. mniejszej liczby sieci i większej liczby urządzeń"
+  },
+  {
+    "QuestionDesc": "Co można powiedzieć o budowie skrętki S/FTP?",
+    "AnwserA": " A. Każda para przewodów jest w osobnym ekranie z folii i dodatkowo całość w ekranie z folii.",
+    "AnwserB": " B. Każda para przewodów jest w osobnym ekranie z folii, całość jest nieekranowana.",
+    "AnwserC": " C. Każda para przewodów jest foliowana i dodatkowo całość w ekranie z folii i siatki.",
+    "AnwserD": " D. Każda para przewodów jest foliowana i dodatkowo całość w ekranie z siatki."
+  },
+  {
+    "QuestionDesc": "W systemie Linux do zablokowania hasła użytkownika egzamin należy użyć polecenia",
+    "AnwserA": " A. passwd –p egzamin",
+    "AnwserB": " B. userdel –r egzamin",
+    "AnwserC": " C. usermod –L egzamin",
+    "AnwserD": " D. useradd –d egzamin"
+  },
+  {
+    "QuestionDesc": "Programem nasłuchowym służącym do przechwytywania i nagrywania różnych pakietów sieciowych oraz ich dekodowania jest",
+    "AnwserA": " A. tracker",
+    "AnwserB": " B. whireshark",
+    "AnwserC": " C. konqueror",
+    "AnwserD": " D. finder"
+  },
+  {
+    "QuestionDesc": "W systemie Windows uruchomienie usługi dotyczącej wydajności komputera realizowane jest za pomocą polecenia",
+    "AnwserA": " A. secpol.msc",
+    "AnwserB": " B. perfmon.msc",
+    "AnwserC": " C. services.msc",
+    "AnwserD": " D. compmgmt.msc"
+  },
+  {
+    "QuestionDesc": "W systemie Linux poleceniem jednorazowo podnoszącym uprawnienia dla procesu uruchamianego z konsoli jest",
+    "AnwserA": " A. users",
+    "AnwserB": " B. sudo",
+    "AnwserC": " C. uname",
+    "AnwserD": " D. passwd"
+  },
+  {
+    "QuestionDesc": "Wskaż złącze, które NIE występuje w zasilaczach ATX",
+    "AnwserA": " A. DE-15/HD-15",
+    "AnwserB": " B. MPC",
+    "AnwserC": " C. PCI-E",
+    "AnwserD": " D. SATA Connector"
+  },
+  {
+    "QuestionDesc": "Przedstawioną diagnostykę systemu Linux można zrealizować za pomocą polecenia",
+    "AnwserA": " A. whoami",
+    "AnwserB": " B. pwd",
+    "AnwserC": " C. cat",
+    "AnwserD": " D. lscpu"
+  },
+  {
+    "QuestionDesc": "W modelu RGB, w systemie szesnastkowym, kolor jest zapisany następująco: ABCDEF. Natężenie koloru niebieskiego w tym zapisie ma wartość dziesiętną",
+    "AnwserA": " A. 239",
+    "AnwserB": " B. 186",
+    "AnwserC": " C. 205",
+    "AnwserD": " D. 171"
+  },
+  {
+    "QuestionDesc": "Na urządzeniu zasilanym prądem stałym znajduje się przedstawione oznaczenie. Wynika z niego, że urządzenie pobiera moc około",
+    "AnwserA": " A. 7,5 W",
+    "AnwserB": " B. 18,75 W",
+    "AnwserC": " C. 11 W",
+    "AnwserD": " D. 2,5 W"
+  },
+  {
+    "QuestionDesc": "Certyfikatem potwierdzającym energooszczędność urządzenia jest",
+    "AnwserA": " A. Energy ISO",
+    "AnwserB": " B. Energy STAR",
+    "AnwserC": " C. Energy TCO",
+    "AnwserD": " D. Energy IEEE"
+  }
+]
